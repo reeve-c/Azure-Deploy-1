@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Drop-Drown-Rec-Sys'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54FDB15D53D74C27A912942CD13F5133 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9DD899B1AF32441785694466A6481E19 }}
